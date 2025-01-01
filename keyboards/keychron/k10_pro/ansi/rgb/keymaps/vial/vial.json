@@ -83,7 +83,7 @@
         "shortName": "Batt"
       }
     ],
-    "lighting": "qmk_rgblight",
+    "lighting": "vialrgb",
     "layouts": {
       "keymap": [
         [
